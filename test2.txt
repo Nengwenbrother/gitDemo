@@ -1,5 +1,4 @@
-<<<<<<< HEAD
 modified in branch master
-=======
 查看历史
->>>>>>> main
+fetch 是怎么用的
+
